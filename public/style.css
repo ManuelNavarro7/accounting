@@ -300,8 +300,26 @@ footer{
     }
     
     
-    .PrimerInput { width: 150px;}
-    .SegundoInput { width: 80px;}
+    .PrimerInput { 
+        width: 134px;
+        margin-left: -5px;
+    }
+    .SegundoInput { 
+        width: 70px;
+        margin-left: -5px
+    }
+    
+    .add__btn{
+            font-size: 35px;
+            background: none;
+            border: none;
+            color: #28B9B5;
+            cursor: pointer;
+            display: inline-block;
+            vertical-align: middle;
+            line-height: 1.1;
+            margin-left: 0px;
+        }
     
     .Input{
        display: flex;
