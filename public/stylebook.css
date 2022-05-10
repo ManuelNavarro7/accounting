@@ -114,6 +114,7 @@
    @media screen and (max-width: 600px) {
    .SectionMain{
      margin-right: 70px;
+     margin-bottom: 180px;
    }
    
    
@@ -178,6 +179,7 @@
     }
     .btnN{
       margin-left: 35px;
+      margin-top: 50px;
     }
     a {
       background: linear-gradient(-45deg, #3f00b5, #9f69fe, #27c8b7, #3f00b5);
