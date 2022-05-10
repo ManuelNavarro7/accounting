@@ -112,6 +112,11 @@
    }
 
    @media screen and (max-width: 600px) {
+   .SectionMain{
+     margin-right: 70px;
+   }
+   
+   
     h2 {
       width: 500px;
       font-size: 95px;
