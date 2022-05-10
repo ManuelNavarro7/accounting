@@ -68,7 +68,7 @@ document.getElementById("Boton").onclick=()=>{
                <section class='Prueba'id=${product.id}>
                <div class='new2'>
                 <h1 class='Income3'>${product.Item}</h1>
-                <h1 class='ms-4 me-5 Income3'>$ ${product.PrecioParse}</h1>
+                <h1 class='ms-4 me-5 Income4'>$ ${product.PrecioParse}</h1>
                 </div>
                 <button class="item__delete--btn buttonBorrar" id=${product.id} onClick='borrarX(${product.id})'><i class="ion-ios-close-outline IncomeBtn"></i></button>
                 </section>
@@ -120,7 +120,7 @@ document.getElementById("Boton").onclick=()=>{
                 <section class='Prueba'id=${product.id}>
                 <div class='new2'>
                 <h1 class='Income3'>${product.Item}</h1>
-                <h1 class='ms-4 me-5 Income3'>$ ${product.PrecioParse}</h1>
+                <h1 class='ms-4 me-5 Income4'>$ ${product.PrecioParse}</h1>
                 </div>
                 <button class="item__delete--btn buttonBorrar" id=${product.id} onClick='borrarY(${product.id})'><i class="ion-ios-close-outline "></i></button>
                 </section>

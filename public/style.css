@@ -131,6 +131,7 @@ body{
 }
 
 .Income3,
+.Income4,
 .Expenses3{
     font-size: 20px;
     margin-top: 0px;
@@ -298,7 +299,9 @@ footer{
         margin-bottom: 100px;
        
     }
-    
+    .Income3{
+        margin-left: 20px;
+    }
     
     .PrimerInput { 
         width: 110px;
